@@ -8,6 +8,8 @@ import Header from './components/Header/Header'
 import Board from './components/Board/Board'
 import NotFound from './components/NotFound'
 
+import './main.css'
+
 import registerServiceWorker from './registerServiceWorker'
 
 ReactDOM.render(
